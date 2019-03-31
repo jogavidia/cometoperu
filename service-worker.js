@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/cometoperu/precache-manifest.5023c218c940c72bf31c6b86fc31e91e.js"
+  "/cometoperu/precache-manifest.edd88c70d99cf600aa373984c5d2ddb2.js"
 );
 
 workbox.clientsClaim();
