@@ -1,14 +1,14 @@
 {
-  "main.css": "/cometoperu/static/css/main.3c491eba.chunk.css",
-  "main.js": "/cometoperu/static/js/main.5c072745.chunk.js",
-  "main.js.map": "/cometoperu/static/js/main.5c072745.chunk.js.map",
+  "main.css": "/cometoperu/static/css/main.ee804fec.chunk.css",
+  "main.js": "/cometoperu/static/js/main.895da7cd.chunk.js",
+  "main.js.map": "/cometoperu/static/js/main.895da7cd.chunk.js.map",
   "static/js/1.fa92c112.chunk.js": "/cometoperu/static/js/1.fa92c112.chunk.js",
   "static/js/1.fa92c112.chunk.js.map": "/cometoperu/static/js/1.fa92c112.chunk.js.map",
   "runtime~main.js": "/cometoperu/static/js/runtime~main.b0677524.js",
   "runtime~main.js.map": "/cometoperu/static/js/runtime~main.b0677524.js.map",
   "static/media/logo.svg": "/cometoperu/static/media/logo.3a8d3c8e.svg",
-  "static/css/main.3c491eba.chunk.css.map": "/cometoperu/static/css/main.3c491eba.chunk.css.map",
+  "static/css/main.ee804fec.chunk.css.map": "/cometoperu/static/css/main.ee804fec.chunk.css.map",
   "index.html": "/cometoperu/index.html",
-  "precache-manifest.edd88c70d99cf600aa373984c5d2ddb2.js": "/cometoperu/precache-manifest.edd88c70d99cf600aa373984c5d2ddb2.js",
+  "precache-manifest.8841f2acad7f115627290c8182eeba5f.js": "/cometoperu/precache-manifest.8841f2acad7f115627290c8182eeba5f.js",
   "service-worker.js": "/cometoperu/service-worker.js"
 }

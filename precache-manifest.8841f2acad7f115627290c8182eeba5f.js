@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/cometoperu/static/js/runtime~main.b0677524.js"
   },
   {
-    "revision": "5c07274569f11993ca28",
-    "url": "/cometoperu/static/js/main.5c072745.chunk.js"
+    "revision": "895da7cd9f32e2d040e1",
+    "url": "/cometoperu/static/js/main.895da7cd.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/cometoperu/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "5c07274569f11993ca28",
-    "url": "/cometoperu/static/css/main.3c491eba.chunk.css"
+    "revision": "895da7cd9f32e2d040e1",
+    "url": "/cometoperu/static/css/main.ee804fec.chunk.css"
   },
   {
-    "revision": "0b018d39e37cf04ede8da980a85f7cae",
+    "revision": "587e252f6bcd9e99ce3c532cb217be56",
     "url": "/cometoperu/index.html"
   }
 ];
